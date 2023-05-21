@@ -1,0 +1,8 @@
+-El Juego fue creado por:
+Rodriguez Hernandez Jayr Adrian
+
+-Para disparar presiona (A)
+-Para mover las tortugas y el cañon son con las teclas de (izquierda, derecha, arriba, abajo)
+
+¡Gracias por jugar! :,D
+
